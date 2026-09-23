@@ -1,8 +1,8 @@
 # Jannis Janknecht
 
 I enjoy building all kinds of software, from CLI tools to web apps.
-Right now I am focusing on compilers and low-level tools in **Rust** and **C** —
-my current project is **jcc**, a compiler for my own language, written in C.
+Right now I am focusing on compilers and low-level tools in **Rust** and **C**.
+My current project is **jcc**, a compiler for my own language, written in C.
 
 ### Skills
 - **Languages:** Rust, C, Java, Python
