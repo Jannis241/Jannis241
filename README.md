@@ -11,7 +11,6 @@ Right now I am working on **jcc**, a compiler for my own language, written in C.
 | [rython](https://github.com/Jannis241/rython) | My first compiler, written in Rust together with my brother |
 | [mini-coreutils-c](https://github.com/Jannis241/mini-coreutils-c) | Small versions of Unix tools like grep, cat and a hex dump, written in C |
 | [wordle](https://github.com/Jannis241/wordle) | Terminal Wordle with a bot that solves the puzzles (Rust) |
-| [connect4](https://github.com/Jannis241/connect4) | Connect Four in the terminal with a minimax bot (Rust) |
 
 ### About me
 - 📍 Germany · German & English
