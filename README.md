@@ -13,6 +13,8 @@ a compiler for my own language, written in C.
 | [rython](https://github.com/Jannis241/rython) | Compiler in Rust, built with my brother: structs, methods, operator overloading, our own IR | paused |
 | [mini-coreutils-c](https://github.com/Jannis241/mini-coreutils-c) | Small versions of `grep`, `cat`, a hex dump and an ELF header reader in C | done |
 | [wordle](https://github.com/Jannis241/wordle) | Terminal Wordle with a bot that wins ~97 % of games | done |
+| [connect4](https://github.com/Jannis241/Connect4) | Connect Four in the terminal with a bot that looks five moves ahead using minimax search | done |
+
 
 
 ### What I work with
